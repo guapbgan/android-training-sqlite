@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\layout_income_header.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\layout\\income_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\layout_income_add.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\layout\\income_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\layout_income_footer.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\layout\\income_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\res\\merged\\debug\\layout_income_item.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\layout\\income_item.xml"
+    }
+]

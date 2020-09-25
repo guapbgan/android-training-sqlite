@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo15_sqlite\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "126,55,178",
+                        "endColumns": "51,70,45",
+                        "endOffsets": "173,121,219"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,107,178",
+                        "endColumns": "51,70,45",
+                        "endOffsets": "102,173,219"
+                    }
+                }
+            ]
+        }
+    ]
+}
